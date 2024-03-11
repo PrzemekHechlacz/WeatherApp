@@ -1,0 +1,15 @@
+.footer {
+display: flex;
+justify-content: center;
+align-items: end;
+text-align: center;
+padding-top: 1rem;
+padding-bottom: 1rem;
+
+}
+
+.Footer-span {
+    padding-left: 0.5rem;
+    color: blue;
+    font-weight: bold;
+}
